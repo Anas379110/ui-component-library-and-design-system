@@ -1,21 +1,20 @@
-# مكتبة مكونات UI قابلة لإعادة الاستخدام ونظام التصميم
-**Reusable UI Component Library & Design System** · التصنيف: واجهة أمامية (Frontend)
+# Reusable UI Component Library & Design System
+**Reusable UI Component Library & Design System** · Category: Frontend
 
-> هذا المشروع خاص بشركة/عميل محدد، والكود المصدري غير منشور.
 > Private client work — the source code is not public.
 
-## نبذة عن المشروع
-أكثر من 60 مكون React سهل الوصول منشور كحزمة npm مع Storybook.
+## Project Overview
+More than 60 accessible React components published as an npm package with Storybook.
 
-## أبرز النقاط
-- نظام ثيمات CSS Properties + وضع داكن
-- TypeScript Declarations + دعم Tree-Shaking
-- تغطية اختبار 95%+ مع Jest + RTL
+## Highlights
+- CSS Properties theme system + dark mode
+- TypeScript Declarations + Tree-Shaking support
+- 95%+ test coverage with Jest + RTL
 
-## الدور
-مطوّر Frontend: بناء الواجهات وإدارة الحالة والتكامل مع الـ APIs وتحسين الأداء وتجربة المستخدم.
+## Role
+Frontend Developer: building interfaces, state management, API integration, performance optimization, and user experience improvements.
 
-## التقنيات المستخدمة
+## Technologies Used
 React, TypeScript, Storybook, CSS Modules, Sass, Jest, React Testing Library, npm
 
-التفاصيل في [TECHSTACK.md](./TECHSTACK.md).
+Details in [TECHSTACK.md](./TECHSTACK.md).

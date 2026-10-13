@@ -1,4 +1,4 @@
-# 🛠️ التقنيات المستخدمة — مكتبة مكونات UI قابلة لإعادة الاستخدام ونظام التصميم
+# 🛠️ Tech Stack — Reusable UI Component Library & Design System
 
 - React
 - TypeScript
